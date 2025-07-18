@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himani2011&label=Profile%20views&color=0e75b6&style=flat" alt="himani2011" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-muia85sjc-himani2011.vercel.app/](https://myportfolio-muia85sjc-himani2011.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://myportfolio-sigma-nine.vercel.app/](https://myportfolio-sigma-nine.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
