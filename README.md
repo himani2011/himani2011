@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himani Prajapati</h1>
-<h3 align="center">An enthusiastic recent Computer Science graduate with a keen interest in Full Stack Development, as well as a strong passion for pursuing opportunities in Machine Learning and Data Science.</h3>
+<h3 align="center">An enthusiastic Computer Science graduate with a keen interest in Full Stack Development, as well as a strong passion for pursuing opportunities in Machine Learning and Data Science.</h3>
 
 <img align="right" alt="coding image" src="https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif" width="300" height="200"/>
 
