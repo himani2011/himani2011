@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himani2011&label=Profile%20views&color=0e75b6&style=flat" alt="himani2011" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-sigma-nine.vercel.app/](https://myportfolio-sigma-nine.vercel.app/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himani-prajapati-8b6691168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himani-prajapati-8b6691168" height="30" width="40" /></a>
